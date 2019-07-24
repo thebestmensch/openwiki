@@ -1,0 +1,49 @@
+// folders
+[0] { nodeType: 'branch',
+[0]   home: null,
+[0]   id: '1Jdjlyd5SMgnSMj_b2ipKR5xXlUYcvvcX',
+[0]   breadcrumb: undefined,
+[0]   sort: '',
+[0]   children:
+[0]    { 'new-member-faqs':
+[0]       { nodeType: 'leaf',
+[0]         home: undefined,
+[0]         id: '1vLR6L_1bsoUGUyHgiYZ_TmssOTYRHk0Y',
+[0]         breadcrumb: [],
+[0]         sort: 'New Member FAQs' },
+[0]      'admin-core-team-docs':
+[0]       { nodeType: 'branch',
+[0]         home: null,
+[0]         id: '1HpMyKn2MCdvrf3mLBn6Kk5k0l_SLwQag',
+[0]         breadcrumb: [],
+[0]         sort: 'admin-core-team-docs',
+[0]         children: [Object] },
+[0]      notes:
+[0]       { nodeType: 'branch',
+[0]         home: null,
+[0]         id: '1w8bWWoF_inTK23rEx8-7LmTv2hobhkTA',
+[0]         breadcrumb: [],
+[0]         sort: 'Notes',
+[0]         children: [Object] } } }
+
+
+// files
+{ files:
+[0]    [ { id: '1RuoQEmFNdeF-9r2EQGWHkz0zFfZv0IDt',
+[0]        name: 'diagram-open austin-team structure-20170221.png',
+[0]        mimeType: 'image/png',
+[0]        parents: [Array],
+[0]        webViewLink:
+[0]         'https://drive.google.com/file/d/1RuoQEmFNdeF-9r2EQGWHkz0zFfZv0IDt/view?usp=drivesdk',
+[0]        createdTime: '2019-07-15T17:01:13.254Z',
+[0]        modifiedTime: '2019-07-15T17:01:13.254Z',
+[0]        lastModifyingUser: [Object] },
+[0]      { id: '1oABVOYASmBfJSLpLPR-MWVld5HkPsW_G',
+[0]        name: 'diagram-open austin-team structure-20170221.ai',
+[0]        mimeType: 'application/postscript',
+[0]        parents: [Array],
+[0]        webViewLink:
+[0]         'https://drive.google.com/file/d/1oABVOYASmBfJSLpLPR-MWVld5HkPsW_G/view?usp=drivesdk',
+[0]        createdTime: '2019-07-15T17:01:13.106Z',
+[0]        modifiedTime: '2019-07-15T17:01:13.106Z',
+[0]        lastModifyingUser: [Object] } ] }
