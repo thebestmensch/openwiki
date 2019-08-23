@@ -2,7 +2,15 @@ import React from 'react';
 
 const Search: React.FC = () => {
     return (
-        <div>I'm the search bar</div>
+        <div className="search">
+            <form>
+                <label>Search</label>
+                <input>
+
+                </input>
+                <button>Search</button>
+            </form>
+        </div>
     );
 }
 
