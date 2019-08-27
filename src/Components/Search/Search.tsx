@@ -6,8 +6,7 @@ const Search: React.FC = () => {
         <div className="search">
             <form>
                 <label>Search</label>
-                <input className={search.red}>
-                </input>
+                <input className={search.red}/>
                 <button>Search</button>
             </form>
         </div>
